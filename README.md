@@ -4,11 +4,17 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soutalitaalmeida/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/soutataalmeida/)
 
+<p align="right">
+  <img src="http://37.media.tumblr.com/25ec0e62516a7c9974aa722e6237862e/tumblr_n3zizxSA9K1shix17o1_500.gif" align="right" width="280" height="280" />
+</p>
+
 
 - 🔭 I’m currently working on  PHP, JS, HTML e CSS
 - 🌱 I’m currently learning  React
 - 📫 Contate-me no  e-mail: talitaalmeida0710@gmail.com
 - 😄 Pronouns:  ela/dela
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talitadsa&show_icons=true&theme=radical)
 
@@ -21,3 +27,6 @@
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div><br/>
+
+
+
