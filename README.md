@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/soutataalmeida/)
 
 <p align="right">
-  <img src="https://pa1.narvii.com/6211/cbf08147d51329be311497b1327be2c69cd7ad90_hq.gif" align="right" width="250" height="250" />
+  <img src="https://media.tenor.com/wDDY2RNqRGEAAAAM/anime.gif" align="right" width="250" height="250" />
 </p>
 
 
