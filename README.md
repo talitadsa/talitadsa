@@ -1,13 +1,12 @@
 ### Olá! Eu sou a Talita Almeida 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talitadasilvaalmeida/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soutalitaalmeida/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/soutataalmeida/)
-
 <p align="right">
   <img src="https://media.tenor.com/wDDY2RNqRGEAAAAM/anime.gif" align="right" width="150" height="150" />
 </p>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talitadasilvaalmeida/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soutalitaalmeida/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/soutataalmeida/)
 
 - 🔭 I’m currently working on  PHP, JS, HTML e CSS
 - 🌱 I’m currently learning  React
