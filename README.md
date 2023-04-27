@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on  PHP, JS, HTML e CSS
 - 🌱 I’m currently learning  React
 - 📫 Contate-me no  e-mail: talitaalmeida0710@gmail.com
-- 😄 Pronouns:  ela/dela
 
 
 
