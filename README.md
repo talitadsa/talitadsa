@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/soutataalmeida/)
 
 - 🔭 I’m currently working on  PHP, JS, HTML, CSS, React e AWS.
-- 📫 Contate-me no  e-mail: talitaalmeida0710@gmail.com
+- 📫 Contate-me no  e-mail: talita.dsalmeida@gmail.com
 
 
 
